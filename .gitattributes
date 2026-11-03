@@ -1,0 +1,7 @@
+# Normalise line endings so a fresh clone on Windows and a publish from CI see the
+# same bytes. The plugin ships plain .js and .yml the host reads by path.
+* text=auto eol=lf
+
+*.png binary
+*.jpg binary
+*.tgz binary

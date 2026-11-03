@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Desktop Restart & Autostart",
+    "description": "A Restart button in the title bar that relaunches the desktop app in one click, and a Settings → General switch that controls whether DSH starts when you sign in to Windows."
+  }
+}

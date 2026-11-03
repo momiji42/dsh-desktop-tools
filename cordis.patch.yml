@@ -1,0 +1,8 @@
+# This bundle layer inserts the desktop-tools plugin process-wide.
+#
+# The entry name is PATH-RELATIVE on purpose: DSH anchors a relative `name:` to
+# the directory of the patch file that declared it, so this row always loads the
+# bundle's own `index.js` whatever the install folder is called.
+- insert:
+    - id: desktop-tools
+      name: './index.js'
