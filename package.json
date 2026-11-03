@@ -38,7 +38,9 @@
     "locale",
     "cordis.patch.yml",
     "icon.svg",
+    "docs",
     "README.md",
+    "CHANGELOG.md",
     "LICENSE"
   ],
   "dsh": {
